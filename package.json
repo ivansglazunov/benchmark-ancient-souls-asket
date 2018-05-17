@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node launch.js"
+  },
+  "dependencies": {
+    "ancient-asket": "^0.1.6",
+    "async": "^2.6.0",
+    "beautify-benchmark": "^0.2.4",
+    "benchmark": "^2.1.4",
+    "graphql": "^0.13.2",
+    "lodash": "^4.17.10"
+  }
+}
