@@ -17,7 +17,7 @@ const {
 
 const benchmarks = {
   'array of objects of keys': {
-    'asket': () => {
+    'ancient-asket': () => {
       const resolver = flow => new Promise((resolve) => {
         if (flow.key === 'results') {
           resolve({ ...flow, data: [{ q: 1, w: 2, },{ q: 3, w: 4, }] });
