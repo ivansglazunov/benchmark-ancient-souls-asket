@@ -10,6 +10,6 @@
     "beautify-benchmark": "^0.2.4",
     "benchmark": "^2.1.4",
     "graphql": "^0.13.2",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.19"
   }
 }
