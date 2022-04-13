@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "ancient-asket": "^0.1.6",
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "beautify-benchmark": "^0.2.4",
     "benchmark": "^2.1.4",
     "graphql": "^0.13.2",
